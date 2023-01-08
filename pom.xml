@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.poo.model.alsc2/com.poo.model.alsc2.App
+                            <mainClass>com.poo.model.alsc2/com.poo.model.alsc2.app.App
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

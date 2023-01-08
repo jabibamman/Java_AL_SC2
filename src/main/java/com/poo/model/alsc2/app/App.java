@@ -1,4 +1,4 @@
-package com.poo.model.alsc2;
+package com.poo.model.alsc2.app;
 
 import com.poo.model.alsc2.model.PolygonRegular;
 import javafx.application.Application;
